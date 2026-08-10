@@ -10,7 +10,7 @@ python-dotenv>=1.0.0
 rich>=13.0.0
 
 # Supabase memory (new)
-supabase==2.3.4
+supabase==2.5.0
 mistralai>=1.0.0 
 
 fastapi>=0.111.0
